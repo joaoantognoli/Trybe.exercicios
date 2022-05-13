@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    <meta charset="UTF-8"
+    <title>Primeira edicao</title>
+    </head>
+    <body>
+    <h1> Pessoas que ja fiz amizade na Trybe!</h1>
+    <p> Ja tive contato com alguns outros estudantes, atraves do grupo do whats e das dinamicas 
+    em grupo. <br> Como foram muitos contatos fica dificil listar todos nesta pagina haha.
+    </p>
+    <img src="https://olhardigital.com.br/wp-content/uploads/2022/02/the-sopranos.jpg ">
+    </body>
+    </html>
